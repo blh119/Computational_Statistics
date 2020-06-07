@@ -14,6 +14,9 @@ Memo 6 - Macro to generate random data from a uniform distribution
 Memo 7 - A procedure for finding the best-fitting curve to a given set of points by minimizing the sum of the squares
 of the errors (or offsets or residuals) of the points from the curve.
 
+Memo 8 - Find the best-ftting curve for fish data, with linear, quadradic, cubic and spline models.
+
+
 
 
 
