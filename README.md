@@ -24,6 +24,10 @@ of times. The alternative hypotheses (H1) to the null hypothesis are that one pa
 greater (or lower) than the other (called a one tailed test) or that the two means will be different (called
 a two-tailed test).
 
+Memo 14 - Least Square Curve Fitting with Scatter Plot and Regression Line
+
+
+
 
 
 
