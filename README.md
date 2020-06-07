@@ -26,9 +26,9 @@ a two-tailed test).
 
 Memo 14 - Least Square Curve Fitting with Scatter Plot and Regression Line
 
-Memo 19 - We use statistical sampling to determine the value of a parameter of a population. We sample a population,
-measure a statistic of this sample, and then use this statistic to say something about the corresponding
-parameter of the population.
+Memo 19 - We use statistical sampling to determine the value of a parameter of a population. We sample a population, measure a statistic of this sample, and then use this statistic to say something about the corresponding parameter of the population.
+
+Memo 20 - We look at the Wild and Studenized Bootstrap. 
 
 
 
