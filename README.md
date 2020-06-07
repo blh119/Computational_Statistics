@@ -30,6 +30,13 @@ Memo 19 - We use statistical sampling to determine the value of a parameter of a
 
 Memo 20 - We look at the Wild and Studenized Bootstrap. 
 
+Memo 21 - The question that ANOVA answering is if the variations between the means due to true differences about
+the populations means or just due to sampling variability. To answer this question, ANOVA calculates a
+parameter called F-statistics, which compares the variation among sample means (among different groups)
+to the variation within groups.
+
+
+
 
 
 
