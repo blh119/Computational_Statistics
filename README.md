@@ -11,6 +11,9 @@ Memo 5 - Ordinary sample proportion for point estimation: pb = S/n; Adjusted Wal
 
 Memo 6 - Macro to generate random data from a uniform distribution 
 
+Memo 7 - A procedure for finding the best-fitting curve to a given set of points by minimizing the sum of the squares
+of the errors (or offsets or residuals) of the points from the curve.
+
 
 
 
