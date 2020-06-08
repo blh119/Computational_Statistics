@@ -35,6 +35,8 @@ the populations means or just due to sampling variability. To answer this questi
 parameter called F-statistics, which compares the variation among sample means (among different groups)
 to the variation within groups.
 
+Memo 23 - Two-Way ANOVA. Difference in means with respect to two variables. 
+
 
 
 
