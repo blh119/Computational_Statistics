@@ -42,7 +42,11 @@ Memo 24 - One Way ANOVA Data Reading
 Memo 25 - Repeated measures as given in the blood glucose data with ANOVA
 
 Logistic Regression - Logistic regression uses a transformation (called a logit) which forces the prediction equation to predict values between 0 and 1. A logistic regression equation predicts the natural log (ln) of the odds for a subject being in one category
-or another. This project invovles heart attack data considering a number of factors
+or another. This project analyzes heart attack data considering a number of factors.
+
+Project2 - Extended Bootstrapping project, using plain, wild, studentized, etc. 
+
+Project3 - Extended ANOVA project involving medical treatment data.
 
 
 
