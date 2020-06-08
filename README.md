@@ -37,6 +37,8 @@ to the variation within groups.
 
 Memo 23 - Two-Way ANOVA. Difference in means with respect to two variables. 
 
+Memo 24 - One Way ANOVA Data Reading
+
 Memo 25 - Repeated measures as given in the blood glucose data with ANOVA
 
 
